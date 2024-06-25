@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yugant Chaudhury</h1>
 <div style = {margin-left: auto}>
-  <h3 align="center">
+  <h3>
   I'm a pre-final year Computer Science student at VIT, Chennai, specializing in AI and Robotics. Passionate about software development, I'm eager to learn and apply the latest tech advancements. Through coursework and extracurriculars, I'm building skills to tackle real-world challenges. Excited to collaborate and make a positive impact!
 
 </h3>
