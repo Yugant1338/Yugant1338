@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yugant Chaudhury</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">
+  I'm a pre-final year Computer Science student at VIT, Chennai, specializing in AI and Robotics. Passionate about software development, I'm eager to learn and apply the latest tech advancements. Through coursework and extracurriculars, I'm building skills to tackle real-world challenges. Excited to collaborate and make a positive impact!
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugant1338&label=Profile%20views&color=0e75b6&style=flat" alt="yugant1338" /> </p>
 
